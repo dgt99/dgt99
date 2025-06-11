@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>dgt99</title>
+    <link href="https://dgt99.github.io/dgt99/feed.xml" rel="self" />
+    <link href="https://dgt99.github.io/dgt99" />
+    <updated>2025-06-11T01:18:53+02:00</updated>
+    <author>
+        <name>Diego Tortoroglio</name>
+    </author>
+    <id>https://dgt99.github.io/dgt99</id>
+
+    <entry>
+        <title> realizzazione lan usando le canaline telefoniche preesistenti.</title>
+        <author>
+            <name>Diego Tortoroglio</name>
+        </author>
+        <link href="https://dgt99.github.io/dgt99/realizzazione-lan-usando-le-canaline-telefoniche-preesistenti/index.html"/>
+        <id>https://dgt99.github.io/dgt99/realizzazione-lan-usando-le-canaline-telefoniche-preesistenti/index.html</id>
+            <category term="diagramma rete"/>
+
+        <updated>2025-06-11T01:18:06+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Diagramma rete lan
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure ><figure class="post__image post__image--full"><img loading="lazy"  src="https://dgt99.github.io/dgt99/media/posts/5//Diagramma12.png" alt="diagramma rete lan " width="1109" height="1047" sizes="(max-width: 48em) 100vw, 768px" srcset="https://dgt99.github.io/dgt99/media/posts/5//responsive/Diagramma12-xs.png 300w ,https://dgt99.github.io/dgt99/media/posts/5//responsive/Diagramma12-sm.png 480w ,https://dgt99.github.io/dgt99/media/posts/5//responsive/Diagramma12-md.png 768w"></figure>
+<figcaption >Diagramma rete lan </figcaption>
+</figure>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

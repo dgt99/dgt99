@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "dgt99",
+    "description": "",
+    "home_page_url": "https://dgt99.github.io/dgt99",
+    "feed_url": "https://dgt99.github.io/dgt99/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Diego Tortoroglio"
+    },
+    "items": [
+        {
+            "id": "https://dgt99.github.io/dgt99/realizzazione-lan-usando-le-canaline-telefoniche-preesistenti/index.html",
+            "url": "https://dgt99.github.io/dgt99/realizzazione-lan-usando-le-canaline-telefoniche-preesistenti/index.html",
+            "title": " realizzazione lan usando le canaline telefoniche preesistenti.",
+            "summary": "Diagramma rete lan",
+            "content_html": "<figure ><figure class=\"post__image post__image--full\"><img loading=\"lazy\"  src=\"https://dgt99.github.io/dgt99/media/posts/5//Diagramma12.png\" alt=\"diagramma rete lan \" width=\"1109\" height=\"1047\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://dgt99.github.io/dgt99/media/posts/5//responsive/Diagramma12-xs.png 300w ,https://dgt99.github.io/dgt99/media/posts/5//responsive/Diagramma12-sm.png 480w ,https://dgt99.github.io/dgt99/media/posts/5//responsive/Diagramma12-md.png 768w\"></figure>\n<figcaption >Diagramma rete lan </figcaption>\n</figure>\n<p> </p>",
+            "author": {
+                "name": "Diego Tortoroglio"
+            },
+            "tags": [
+                   "diagramma rete"
+            ],
+            "date_published": "2025-06-11T01:18:06+02:00",
+            "date_modified": "2025-06-11T01:18:53+02:00"
+        }
+    ]
+}
