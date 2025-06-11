@@ -13,6 +13,14 @@
 <lastmod>2025-06-11T00:48:10+02:00</lastmod>
 </url>
 <url>
+<loc>https://dgt99.github.io/dgt99/fatti-amici-tech/</loc>
+<lastmod>2025-06-12T00:33:48+02:00</lastmod>
+<image:image>
+<image:loc>https://dgt99.github.io/dgt99/media/posts/8/IMG_20250225_005217_338.jpg</image:loc>
+<image:title><![CDATA[lab]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://dgt99.github.io/dgt99/presentazione/</loc>
 <lastmod>2025-06-11T01:20:16+02:00</lastmod>
 <image:image>
@@ -22,10 +30,14 @@
 </url>
 <url>
 <loc>https://dgt99.github.io/dgt99/realizzazione-lan-usando-le-canaline-telefoniche-preesistenti/</loc>
-<lastmod>2025-06-11T01:18:53+02:00</lastmod>
+<lastmod>2025-06-12T00:37:51+02:00</lastmod>
 <image:image>
 <image:loc>https://dgt99.github.io/dgt99/media/posts/5//Diagramma12.png</image:loc>
 <image:title><![CDATA[diagramma rete lan ]]></image:title>
 </image:image>
+</url>
+<url>
+<loc>https://dgt99.github.io/dgt99/uno-sguardo-all-etcnetworkinterfaces/</loc>
+<lastmod>2025-06-12T00:41:20+02:00</lastmod>
 </url>
 </urlset>

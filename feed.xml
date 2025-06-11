@@ -3,7 +3,7 @@
     <title>dgt99</title>
     <link href="https://dgt99.github.io/dgt99/feed.xml" rel="self" />
     <link href="https://dgt99.github.io/dgt99" />
-    <updated>2025-06-11T01:18:53+02:00</updated>
+    <updated>2025-06-12T00:37:51+02:00</updated>
     <author>
         <name>Diego Tortoroglio</name>
     </author>
@@ -21,7 +21,7 @@
         <updated>2025-06-11T01:18:06+02:00</updated>
             <summary>
                 <![CDATA[
-                    Diagramma rete lan
+                    Diagramma rete lan Questo è il diagramma di rete di casa dove a partire dall'alto abbiamo la realizzazione è riuscita&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -29,7 +29,19 @@
                 <figure ><figure class="post__image post__image--full"><img loading="lazy"  src="https://dgt99.github.io/dgt99/media/posts/5//Diagramma12.png" alt="diagramma rete lan " width="1109" height="1047" sizes="(max-width: 48em) 100vw, 768px" srcset="https://dgt99.github.io/dgt99/media/posts/5//responsive/Diagramma12-xs.png 300w ,https://dgt99.github.io/dgt99/media/posts/5//responsive/Diagramma12-sm.png 480w ,https://dgt99.github.io/dgt99/media/posts/5//responsive/Diagramma12-md.png 768w"></figure>
 <figcaption >Diagramma rete lan </figcaption>
 </figure>
-<p> </p>
+<p>Questo è il diagramma di rete di casa dove a partire dall'alto abbiamo</p>
+<ul>
+<li>due gateway il fatsgate via fttc e un mikrotik SXTsq lite2 </li>
+<li>il mikrotik hexs come router posto immediatamente al confine di rete con una internet key come ricezione comandi via gsm</li>
+<li> un collegamento per l'amministrazione del hexs punto-punto</li>
+<li>un cluster proxmox formato da vari pc e portatili collegati a uno switch rb260gs</li>
+<li>uno switch "centrale" CSS610-8p-2S+IN</li>
+<li>un NAS derivato da un pc desktop</li>
+<li>un paio di switch che salgono rispettivamente di piano</li>
+<li>un hap ac lite per la cameretta </li>
+<li>un hap ac3 per il salotto.</li>
+</ul>
+<p>la realizzazione è riuscita senza opere murarie sostituendo il doppino telefonico con cavi ethernet. </p>
             ]]>
         </content>
     </entry>
