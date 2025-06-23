@@ -2,8 +2,6 @@ User-agent: ChatGPT-User
 Disallow: /
 User-agent: GPTBot
 Disallow: /
-User-agent: CCBot
-Disallow: /
 User-agent: *
 Disallow:
 Sitemap: https://dgt99.github.io/dgt99/sitemap.xml
