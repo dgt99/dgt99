@@ -3,30 +3,32 @@
     <title>dgt99</title>
     <link href="https://dgt99.github.io/dgt99/feed.xml" rel="self" />
     <link href="https://dgt99.github.io/dgt99" />
-    <updated>2025-06-12T00:37:51+02:00</updated>
+    <updated>2025-07-10T13:06:34+02:00</updated>
     <author>
         <name>Diego Tortoroglio</name>
     </author>
     <id>https://dgt99.github.io/dgt99</id>
 
     <entry>
-        <title> realizzazione lan usando le canaline telefoniche preesistenti.</title>
+        <title> Diagramma rete</title>
         <author>
             <name>Diego Tortoroglio</name>
         </author>
-        <link href="https://dgt99.github.io/dgt99/realizzazione-lan-usando-le-canaline-telefoniche-preesistenti/index.html"/>
-        <id>https://dgt99.github.io/dgt99/realizzazione-lan-usando-le-canaline-telefoniche-preesistenti/index.html</id>
+        <link href="https://dgt99.github.io/dgt99/realizzare-una-lan-usando-le-canaline-telefoniche-preesistenti-2/index.html"/>
+        <id>https://dgt99.github.io/dgt99/realizzare-una-lan-usando-le-canaline-telefoniche-preesistenti-2/index.html</id>
+            <category term="rete lan "/>
             <category term="diagramma rete"/>
 
-        <updated>2025-06-11T01:18:06+02:00</updated>
+        <updated>2025-06-29T11:02:26+02:00</updated>
             <summary>
                 <![CDATA[
-                    Diagramma rete lan Questo è il diagramma di rete di casa dove a partire dall'alto abbiamo la realizzazione è riuscita&hellip;
+                    Questo è il diagramma di rete di casa dove a partire dall'alto abbiamo Pubblicherò post in cui descrivo i vari&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <figure ><figure class="post__image post__image--full"><img loading="lazy"  src="https://dgt99.github.io/dgt99/media/posts/5//Diagramma12.png" alt="diagramma rete lan " width="1109" height="1047" sizes="(max-width: 48em) 100vw, 768px" srcset="https://dgt99.github.io/dgt99/media/posts/5//responsive/Diagramma12-xs.png 300w ,https://dgt99.github.io/dgt99/media/posts/5//responsive/Diagramma12-sm.png 480w ,https://dgt99.github.io/dgt99/media/posts/5//responsive/Diagramma12-md.png 768w"></figure>
+                <p> </p>
+<figure ><figure class="post__image post__image--full"><img loading="lazy"  src="https://dgt99.github.io/dgt99/media/posts/11//Diagramma12.png" alt="diagramma rete lan " width="1109" height="1047" sizes="(max-width: 48em) 100vw, 768px" srcset="https://dgt99.github.io/dgt99/media/posts/11//responsive/Diagramma12-xs.png 300w ,https://dgt99.github.io/dgt99/media/posts/11//responsive/Diagramma12-sm.png 480w ,https://dgt99.github.io/dgt99/media/posts/11//responsive/Diagramma12-md.png 768w"></figure>
 <figcaption >Diagramma rete lan </figcaption>
 </figure>
 <p>Questo è il diagramma di rete di casa dove a partire dall'alto abbiamo</p>
@@ -41,7 +43,76 @@
 <li>un hap ac lite per la cameretta </li>
 <li>un hap ac3 per il salotto.</li>
 </ul>
-<p>la realizzazione è riuscita senza opere murarie sostituendo il doppino telefonico con cavi ethernet. </p>
+<p>Pubblicherò post in cui descrivo i vari segmenti della lan!</p>
+<p>seguite questa pagina per tutti i post relativi a questo argomento.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title> realizzare una  lan usando le canaline telefoniche preesistenti.</title>
+        <author>
+            <name>Diego Tortoroglio</name>
+        </author>
+        <link href="https://dgt99.github.io/dgt99/realizzare-una-lan-usando-le-canaline-telefoniche-preesistenti/index.html"/>
+        <id>https://dgt99.github.io/dgt99/realizzare-una-lan-usando-le-canaline-telefoniche-preesistenti/index.html</id>
+            <category term="rete lan "/>
+            <category term="diagramma rete"/>
+
+        <updated>2025-06-11T01:18:06+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Nel 2018 ho realizzato questo impianto quando ancora era presente la linea ADSL. per evitare i possibili disturbi ho portato&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><span style="color: #000000;">Nel 2018 ho realizzato questo impianto quando ancora era presente la linea ADSL.</span></p>
+<p><span style="color: #000000;">per evitare i possibili disturbi ho portato il modem nel punto più vicino dell'entrata di linea, successivamente ho dovuto portare i cavi ethernet ai piani superiori.</span></p>
+<p><span style="color: #000000;">Rimuovendo  i vecchi doppini telefonici dalle canaline ( legare assieme il cavo ethernet e tirare per me è stato  impraticabile per il  diametro ridotto delle vecchie canaline sip (la vecchia telecom). </span></p>
+<p><span style="color: #000000;">Con l'aiuto di un passacavi e un altra persona possibilmente,  si inscerisce il nuovo cavo ethernet e si termina con una presa.</span></p>
+<h4><strong><span style="color: #000000;">I materiali necessari sono:</span></strong></h4>
+<ul>
+<li><span style="color: #000000;">cavo ethernet  in matassa della lunghezza desiderata per il cablaggio.</span></li>
+<li><span style="color: #000000;">prese o frutti rj45 keystone o da muro</span></li>
+<li><span style="color: #000000;">tester per cavi lan</span></li>
+<li><span style="color: #000000;">passacavi </span></li>
+<li><span style="color: #000000;">forbici da elettricista per taglio e sguaino ethernet</span></li>
+</ul>
+<p> </p>
+<h4><span style="color: #000000;"><strong>Il processo di per se non è complicato ma ho acquisito nozioni fondamentali durante l'intero processo che cercherò di elencare.</strong></span></h4>
+<ul>
+<li>
+<h5><span style="color: #000000;">il cavo ethernet è da preferire in rame puro e non cca in quanto dipersè l'alluminio-misto-rame ha una resistenza elettrica maggiore e inoltre si sfalda più facilmente.</span></h5>
+</li>
+<li>
+<h5><span style="color: #000000;">in questo caso un cavo per canalina : più cavi non sono necessari per impossibilità di farli transitare all'interno della stessa canalina qundi ogni volta che una canalina termina se il cavo deve essere diramato bisogna inserire uno switch.</span></h5>
+</li>
+<li>
+<h5><span style="color: #000000;">scegliere switch preferibilmente con porte poe-in e poe-out rispettitivamente per ricevere l'alimentazione sullo switch e per alimentare un altro dispositivo tramite la poe. un esempio è RB260GSP della mikrotik.</span></h5>
+</li>
+<li>
+<h5><span style="color: #000000;">in ambito casalingo bastano i cavi utp (non schermati) i cavi con schermatura presentano rivestimenti che ostacolano le interferenze e sono usati in ambito industriale.</span></h5>
+</li>
+<li>
+<h5><span style="color: #000000;">evitare di far correre i cavi ethernet nelle stesse canaline dei cavi elettrici : anche se non ci sono interferenze sulla linea in quanto i due cavi usano delle frequenze diverse per buon senso e per le normative in ambito elettrico si deve evitare questo.</span></h5>
+</li>
+<li>
+<h5><span style="color: #000000;">sapere come crimpare non serve : non bisogna sapere come crimpare, la crimpatura serve solo a creare i cavi patch con spezzoni di cavo ethernet tra le apparecchiature e le prese a muro.</span></h5>
+</li>
+<li>
+<h5><span style="color: #000000;"> usare un tester per cavi ethernet per verificare la riuscita del collegamento.</span></h5>
+</li>
+<li>
+<h5><span style="color: #000000;">in commercio si possono trovare prese rj45 sia keystone che da muro. Entrambi non richiedono lo sguaino di ogni singolo filo, basta inserire i singoli fili e  avviene al momento stesso dell'inserimento del filo in corrispondenza del vano predisposto all' interno della presa.</span></h5>
+</li>
+</ul>
+<h5> </h5>
+<p><span style="color: #000000;">La realizzazione è riuscita senza opere murarie sostituendo il doppino telefonico con cavi ethernet. </span></p>
+<p><span style="color: #000000;">il diagramma di rete è presente al seguente link:<a href="https://dgt99.github.io/dgt99/realizzare-una-lan-usando-le-canaline-telefoniche-preesistenti-2/index.html" style="color: #000000;"> diagramma rete</a></span></p>
+<p><span style="color: #000000;">si può notare che con questa topologia in cascata se un punto del cavo si interrompe anche tutti i dispositivi dopo il punto di rottura del cavo saranno irraggiungibili.Questo è un punto in qui pecca la topologia di rete  adottata, ma considerando che è un adattamento all'infrastruttura esistente è un fattore marginale.</span></p>
+<p><span style="color: #000000;">si può sempre successivamente aggiungere collegamenti ridondanti anche wireless con il protocollo STP,RSTP ecc ecc...</span></p>
+<p> </p>
             ]]>
         </content>
     </entry>
