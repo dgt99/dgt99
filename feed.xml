@@ -3,7 +3,7 @@
     <title>dgt99</title>
     <link href="https://dgt99.github.io/dgt99/feed.xml" rel="self" />
     <link href="https://dgt99.github.io/dgt99" />
-    <updated>2025-07-12T15:24:04+02:00</updated>
+    <updated>2025-07-12T15:32:50+02:00</updated>
     <author>
         <name>Diego Tortoroglio</name>
     </author>
@@ -129,6 +129,11 @@
 <p><span style="color: #000000;">aggiungono delle regole alle rotte precedenti in cui si specifica che il traffico deve usare la tabella di routing vlan2 per il traffico proveniente e il traffico in entrata </span></p>
 <p><span style="color: #000000;">in realtà la regola della riga 30 dovrebbe essere automatica ma per sicurezza è aggiunta alla configurazione. </span></p>
 <p><span style="color: #000000;">mentre le ultime righe dalla 40 in poi sono per il collegamento a un dispositivo android che fa da thethering usb questo cosi facendo può raggiungere il pc tramite usb come se fosse un cavo di rete quindi si può usare qualsiasi protocollo di rete ssh,vnc ecc. ecc.</span></p>
+<p>riferimenti:</p>
+<p><a href="https://wiki.debian.org/it/NetworkConfiguration" target="_blank" rel="noopener noreferrer">https://wiki.debian.org/it/NetworkConfiguration</a></p>
+<p><a href="https://wiki.debian.org/it/NetworkConfiguration" target="_blank" rel="noopener noreferrer">https://wiki.debian.org/it/NetworkConfiguration</a></p>
+<p><a href="https://guide.debianizzati.org/index.php/Iproute2" target="_blank" rel="noopener noreferrer">https://guide.debianizzati.org/index.php/Iproute2</a></p>
+<p><a href="https://joshuawoehlke.com/android-raspberry-pi-display-over-usb/" target="_blank" rel="ugc noopener noreferrer">https://joshuawoehlke.com/android-raspberry-pi-display-over-usb/</a></p>
             ]]>
         </content>
     </entry>
