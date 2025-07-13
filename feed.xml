@@ -3,7 +3,7 @@
     <title>dgt99</title>
     <link href="https://dgt99.github.io/dgt99/feed.xml" rel="self" />
     <link href="https://dgt99.github.io/dgt99" />
-    <updated>2025-07-12T15:32:50+02:00</updated>
+    <updated>2025-07-13T13:09:52+02:00</updated>
     <author>
         <name>Diego Tortoroglio</name>
     </author>
@@ -127,6 +127,7 @@
 <p><span style="color: #000000;">riga 31 e riga 32</span></p>
 <p><span style="color: #000000;"><code>post-up ip rule add from  192.168.2.10/28 table vlan2 <br> post-up ip rule add to 192.168.2.10/28 table vlan2</code></span></p>
 <p><span style="color: #000000;">aggiungono delle regole alle rotte precedenti in cui si specifica che il traffico deve usare la tabella di routing vlan2 per il traffico proveniente e il traffico in entrata </span></p>
+<p><span style="color: #000000;">tutte queste regole riguardanti la vlan2 predispongono un uso per un eventuale firewall marking o un namespace separato cosi da instradare il traffico su un altro gateway di rete senza cambiare il gateway di default.</span></p>
 <p><span style="color: #000000;">in realtà la regola della riga 30 dovrebbe essere automatica ma per sicurezza è aggiunta alla configurazione. </span></p>
 <p><span style="color: #000000;">mentre le ultime righe dalla 40 in poi sono per il collegamento a un dispositivo android che fa da thethering usb questo cosi facendo può raggiungere il pc tramite usb come se fosse un cavo di rete quindi si può usare qualsiasi protocollo di rete ssh,vnc ecc. ecc.</span></p>
 <p>riferimenti:</p>
