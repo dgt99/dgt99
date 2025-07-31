@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>dgt99</title>
+    <title>Diego Tortoroglio</title>
     <link href="https://dgt99.github.io/dgt99/feed.xml" rel="self" />
     <link href="https://dgt99.github.io/dgt99" />
-    <updated>2025-07-13T13:10:31+02:00</updated>
+    <updated>2025-07-31T10:56:44+02:00</updated>
     <author>
         <name>Diego Tortoroglio</name>
     </author>
@@ -139,7 +139,7 @@
         </content>
     </entry>
     <entry>
-        <title> realizzare una  lan usando le canaline telefoniche preesistenti.</title>
+        <title> Realizzare una  lan usando le canaline telefoniche preesistenti.</title>
         <author>
             <name>Diego Tortoroglio</name>
         </author>
