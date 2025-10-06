@@ -3,7 +3,7 @@
     <title>Diego Tortoroglio</title>
     <link href="https://dgt99.github.io/dgt99/feed.xml" rel="self" />
     <link href="https://dgt99.github.io/dgt99" />
-    <updated>2025-07-31T10:56:44+02:00</updated>
+    <updated>2025-10-06T10:39:40+02:00</updated>
     <author>
         <name>Diego Tortoroglio</name>
     </author>
@@ -22,7 +22,7 @@
         <updated>2025-06-29T11:02:26+02:00</updated>
             <summary>
                 <![CDATA[
-                    Questo è il diagramma di rete di casa dove a partire dall'alto abbiamo Pubblicherò post in cui descrivo i vari&hellip;
+                    Questo è il diagramma di rete di casa dove a partire dall'alto abbiamo Si nota che con questa topologia in&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -43,9 +43,7 @@
 <li>un hap ac lite per la cameretta </li>
 <li>un hap ac3 per il salotto.</li>
 </ul>
-<p>Pubblicherò post in cui descrivo i vari segmenti della lan!</p>
-<p>seguite questa pagina per tutti i post relativi a questo argomento.</p>
-<p> </p>
+<p>Si nota  che con questa topologia in cascata se un punto del cavo si interrompe anche tutti i dispositivi dopo il punto di rottura del cavo saranno irraggiungibili.Questo è un punto in qui pecca la topologia di rete  adottata, ma considerando che è un adattamento all'infrastruttura esistente è un fattore marginale.</p>
             ]]>
         </content>
     </entry>
@@ -158,7 +156,7 @@
             <![CDATA[
                 <p><span style="color: #000000;">Nel 2018 ho realizzato questo impianto quando ancora era presente la linea ADSL.</span></p>
 <p><span style="color: #000000;">per evitare i possibili disturbi ho portato il modem nel punto più vicino dell'entrata di linea, successivamente ho portato i cavi ethernet ai piani superiori.</span></p>
-<p><span style="color: #000000;">Rimuovendo  i vecchi doppini telefonici dalle canaline ( legare assieme il cavo ethernet e tirare per me è stato  impraticabile per il  diametro ridotto delle vecchie canaline sip (la vecchia telecom). </span></p>
+<p><span style="color: #000000;">Rimuovendo  i vecchi doppini telefonici dalle canaline ( legare assieme il cavo ethernet e tirare per me è stato  impraticabile per il  diametro ridotto delle vecchie canaline sip.</span></p>
 <p><span style="color: #000000;">Con l'aiuto di un passacavi e un altra persona possibilmente,  si inscerisce il nuovo cavo ethernet e si termina con una presa.</span></p>
 <h4><strong><span style="color: #000000;">I materiali necessari sono:</span></strong></h4>
 <ul>
@@ -175,7 +173,7 @@
 <h5><span style="color: #000000;">il cavo ethernet è da preferire in rame puro e non cca in quanto dipersè l'alluminio-misto-rame ha una resistenza elettrica maggiore e inoltre si sfalda più facilmente.</span></h5>
 </li>
 <li>
-<h5><span style="color: #000000;">in questo caso un cavo per canalina : più cavi non sono necessari per impossibilità di farli transitare all'interno della stessa canalina qundi ogni volta che una canalina termina se il cavo deve essere diramato bisogna inserire uno switch.</span></h5>
+<h5><span style="color: #000000;">in questo caso un cavo per canalina : più cavi non sono necessari (in ambito casalingo) per impossibilità di farli transitare all'interno della stessa canalina qundi ogni volta che una canalina termina se il cavo deve essere diramato bisogna inserire uno switch.</span></h5>
 </li>
 <li>
 <h5><span style="color: #000000;">scegliere switch preferibilmente con porte poe-in e poe-out rispettitivamente per ricevere l'alimentazione sullo switch e per alimentare un altro dispositivo tramite la poe. un esempio è RB260GSP della mikrotik.<figure class="post__image post__image--right"><img loading="lazy"  src="https://dgt99.github.io/dgt99/media/posts/5/OIP-2839806294-2.jpeg" alt="RB260GSP" width="158" height="158" sizes="(max-width: 48em) 100vw, 768px" srcset="https://dgt99.github.io/dgt99/media/posts/5/responsive/OIP-2839806294-2-xs.jpeg 300w ,https://dgt99.github.io/dgt99/media/posts/5/responsive/OIP-2839806294-2-sm.jpeg 480w ,https://dgt99.github.io/dgt99/media/posts/5/responsive/OIP-2839806294-2-md.jpeg 768w"></figure></span></h5>
@@ -184,7 +182,7 @@
 <h5><span style="color: #000000;">in ambito casalingo bastano i cavi utp (non schermati) i cavi con schermatura presentano rivestimenti che ostacolano le interferenze e sono usati in ambito industriale.</span></h5>
 </li>
 <li>
-<h5><span style="color: #000000;">evitare di far correre i cavi ethernet nelle stesse canaline dei cavi elettrici : anche se non ci sono interferenze sulla linea in quanto i due cavi usano delle frequenze diverse per buon senso e per le normative in ambito elettrico si dovrebbe evitare questo.</span></h5>
+<h5><span style="color: #000000;">evitare di far correre i cavi ethernet nelle stesse canaline dei cavi elettrici : <span style="text-decoration: line-through;">anche se non ci sono interferenze sulla linea in quanto i due cavi usano delle frequenze diverse per buon senso e</span> per le normative in ambito elettrico si dovrebbe evitare questo.</span></h5>
 </li>
 <li>
 <h5><span style="color: #000000;">sapere come crimpare non serve : non bisogna sapere come crimpare, la crimpatura serve sopratutto a creare i cavi patch con spezzoni di cavo ethernet  tra le apparecchiature e le prese a muro.</span></h5>
@@ -210,7 +208,7 @@
 <p><span style="color: #000000;">La realizzazione è riuscita senza opere murarie sostituendo il doppino telefonico con cavi ethernet. </span></p>
 <p><span style="color: #000000;">il diagramma di rete è presente al seguente link:<a href="https://dgt99.github.io/dgt99/realizzare-una-lan-usando-le-canaline-telefoniche-preesistenti-2/index.html" style="color: #000000;"> diagramma rete</a></span></p>
 <p><span style="color: #000000;">si può notare che con questa topologia in cascata se un punto del cavo si interrompe anche tutti i dispositivi dopo il punto di rottura del cavo saranno irraggiungibili.Questo è un punto in qui pecca la topologia di rete  adottata, ma considerando che è un adattamento all'infrastruttura esistente è un fattore marginale.</span></p>
-<p><span style="color: #000000;">si può sempre successivamente aggiungere collegamenti ridondanti anche wireless con il protocollo STP,RSTP ecc ecc...</span></p>
+<p><span style="color: #000000;">si può sempre successivamente aggiungere collegamenti ridondanti con il protocollo STP,RSTP.</span></p>
 <p> </p>
             ]]>
         </content>
